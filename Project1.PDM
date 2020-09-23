@@ -1,0 +1,132 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+D:\WIN2000\system32\mscomctl.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Documents and Settings\Incognito\Bureaublad\Ascii.exe=Yes
+D:\WIN2000\system32\msvbvm60.dll=Yes
+D:\WIN2000\system32\oleaut32.dll=Yes
+D:\WIN2000\system32\OLEPRO32.DLL=Yes
+D:\WIN2000\system32\ASYCFILT.DLL=Yes
+D:\WIN2000\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+D:\WIN2000\system32\MSJET35.DLL=Yes
+D:\WIN2000\system32\MSJTER35.DLL=Yes
+D:\WIN2000\system32\MSJINT35.DLL=Yes
+D:\WIN2000\system32\vbajet32.dll=Yes
+D:\WIN2000\system32\expsrv.dll=Yes
+D:\WIN2000\system32\MSRD2X35.DLL=Yes
+D:\WIN2000\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+D:\WIN2000\system32\VB5DB.DLL=Yes
+D:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+D:\WIN2000\system32\mscomctl.ocx=Yes
+D:\WIN2000\system32\MSFLXGRD.OCX=Yes
+D:\WIN2000\system32\MSRDC20.OCX=Yes
+D:\WIN2000\system32\MSRDO20.DLL=Yes
+D:\WIN2000\system32\RDOCURS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WIN2000\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Documents and Settings\Incognito\Bureaublad\Ascii.exe=$(AppPath)
+D:\WIN2000\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WIN2000\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WIN2000\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WIN2000\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WIN2000\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WIN2000\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WIN2000\system32\VB5DB.DLL=$(WinSysPath)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\WIN2000\system32\mscomctl.ocx=$(WinSysPath)
+D:\WIN2000\system32\MSFLXGRD.OCX=$(WinSysPath)
+D:\WIN2000\system32\MSRDC20.OCX=$(WinSysPath)
+D:\WIN2000\system32\MSRDO20.DLL=$(WinSysPath)
+D:\WIN2000\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WIN2000\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Documents and Settings\Incognito\Bureaublad\Ascii.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Ascii
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Ascii
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Ascii]
+Icon1=Ascii.exe
+Title1=Ascii
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable\Package
+ProjectFolder=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable
+ServerSideCab=
+File1=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable\Package\setup.exe
+File2=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable\Package\Setup.Lst
+File3=D:\Documents and Settings\Incognito\Mijn documenten\Visual Basic\SourceCode\ResRelated\AsciiTable\Package\Ascii.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
